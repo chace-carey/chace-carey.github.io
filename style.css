@@ -5,3 +5,8 @@
     background-color: black;}
     a{
         color: yellow;}
+ #button-table{
+                align:center;
+                bgcolor: black;
+                border-collapse: separate;
+                border-spacing: 75px}
